@@ -1,7 +1,7 @@
 <?php
 
 
-$sign="FRED";
+$sign="%@#$^&*%";
 
 $params_arr['Agent']="DU888";
 $params_arr['Currency']='RMB';
